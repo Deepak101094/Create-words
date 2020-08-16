@@ -1,0 +1,28 @@
+.header {
+   display: flex;
+   flex-direction: column;
+}
+
+.logo_container {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   margin-top: 20px;
+}
+
+.logo {
+   height: 40px;
+   width: 30px;
+}
+
+.hero_text_container {
+   border-bottom: 18px solid #f60c25;
+}
+
+.hero_text {
+   font-size: 35px;
+   font-weight: bold;
+   color: #f60c25;
+   margin-bottom: 20px;
+   margin-left: 20px;
+}
